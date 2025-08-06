@@ -7,7 +7,7 @@ const ProjectCard = ({
     image,
     tags,
     href,
-    closeCard
+    closeCard,
 }) => {
     return (
         <div className="fixed inset-0 z-50 flex items-center justify-center w-full h-full overflow-hidden backdrop-blur-sm">
