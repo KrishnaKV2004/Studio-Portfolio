@@ -16,7 +16,9 @@ export function FrameWork() {
         "keras",
         "microsoft",
         "python",
-        "react"
+        "react",
+        "scikit",
+        "opencv"
     ]
 
   return (
