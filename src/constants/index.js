@@ -183,49 +183,52 @@ export const mySocials = [
     icon: "/assets/socials/whatsApp.svg",
   },
   {
-    name: "Linkedin",
-    href: "https://www.linkedin.com/in/ali-sanati/",
+    name: "LinkedIn",
+    href: "",
     icon: "/assets/socials/linkedIn.svg",
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/ali.sanatidev/reels/",
+    href: "",
     icon: "/assets/socials/instagram.svg",
+  },
+  {
+    name: "GitHub",
+    href: "",
+    icon: "/assets/socials/"
   },
 ];
 
 export const experiences = [
   {
-    title: "Software Developer",
-    job: "Security & Defense Projects",
-    date: "2021-2023",
+    title: "B.Tech CSE",
+    job: "Graphic Era University",
+    date: "2022-Present",
     contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancing user experience and enabling seamless interactive map integration.",
-      "Developed applications for industrial automation, leveraging C++ and the Fatek API for PLC communication.",
-      "Enhanced responsiveness and usability of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
+      "Pursuing a Bachelor's degree in Computer Science Engineering.",
+      "Learning core subjects like Data Structures, Algorithms, and Database Management.",
+      "Applying academic knowledge to real-world projects in AI, ML, and Web Development.",
     ],
   },
   {
-    title: "Back-End Developer",
-    job: "Car Manufacture",
-    date: "2023-2024",
+    title: "Self-Learning & Personal Projects",
+    job: "Aspiring Software Developer",
+    date: "2023-Present",
     contents: [
-      "Engineered systems for large-scale data ingestion and analysis, ensuring efficient data processing and storage.",
-      "Developed back-end systems enabling vehicle-to-cloud communication for telemetry, diagnostics, and remote control:",
-      "✅ Implemented secure APIs, following ISO 26262 automotive safety standards.",
-      "✅ Ensured data privacy for customers and partners through industry-compliant protocols.",
-      "✅ Delivered remote features like over-the-air updates, real-time tracking, and remote start capabilities.",
+      "Developed interactive web applications using React, Vite, and Tailwind CSS.",
+      "Explored 3D experiences with Three.js for visually engaging interfaces.",
+      "Built deep learning models for image classification and gesture recognition using TensorFlow and Keras.",
+      "Continuously enhancing skills in full-stack development and AI technologies through hands-on projects.",
     ],
   },
   {
-    title: "Freelance Developer",
-    job: "Self-Employed",
-    date: "2025-Present",
+    title: "Workshops & Certifications",
+    job: "Skill Development",
+    date: "2023-Present",
     contents: [
-      "Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.",
-      "Continuously enhancing technical skills and expanding expertise in modern web development and back-end technologies.",
+      "Completed 'Machine Learning in Python' certification, mastering neural networks and data preprocessing.",
+      "Attended workshops on AI, Android Development, and UI/UX design to expand technical knowledge.",
+      "Actively participating in hackathons and coding competitions to enhance problem-solving skills.",
     ],
   },
 ];
