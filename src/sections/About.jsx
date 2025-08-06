@@ -1,6 +1,8 @@
 import { useRef } from "react";
 import Card from "../components/Card";
 import Globe from "../components/Globe";
+import CopyMail from "../components/CopyMail";
+import { FrameWork } from "../components/FrameWork";
 
 const About = () => {
 
@@ -53,10 +55,23 @@ const About = () => {
                 </div>
 
                 {/* Grid-4 */}
-                <div className="grid-special-color grid-4"></div>
+                <div className="grid-special-color grid-4">
+                    <div className="flex flex-col items-center justify-center gap-4 size-full">
+                        <p className="text-center headtext">Do you want to work on a Project together ?</p>
+                        <CopyMail />
+                    </div>
+                </div>
 
                 {/* Grid-5 */}
-                <div className="grid-default-color grid-5"></div>
+                <div className="grid-default-color grid-5">
+                    <div className="z-10 w-[50%]">
+                        <p className="headtext">Tech Stack</p>
+                        <p className="subtext">I specialize in a variety of languages, frameworks and tools that allows me to build robust and scalable applications</p>
+                    </div>
+                    <div className="absolute inset-y-0 md:inset-y-9 w-full h-full start-[50%] md:scale-125">
+                        <FrameWork />
+                    </div>
+                </div>
             </div>
         </section>
     )
