@@ -11,7 +11,7 @@ const Hero = () => {
   const isMobile = useMediaQuery({ query: '(max-width: 853px)' });
 
   return (
-    <section className="flex items-start justify-center md:items-start md:justify-start min-h-screen overflow-hidden c-space">
+    <section id="home" className="flex items-start justify-center md:items-start md:justify-start min-h-screen overflow-hidden c-space">
         <HeroText />
         <Parallax />
         <figure className="absolute inset-0" style={{width: "100vw", height: "100vh"}}>

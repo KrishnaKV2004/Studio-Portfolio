@@ -52,6 +52,11 @@
   }
 }
 
+html
+{
+  scroll-behavior: smooth;
+}
+
 body
 {
   background: #030412;
