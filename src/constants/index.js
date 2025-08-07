@@ -12,7 +12,7 @@ export const myProjects = [
     ],
     href: "https://github.com/KrishnaKV2004/Brain-Tumor-Detection.git",
     logo: "",
-    image: "/assets/projects/accessories.jpg",
+    image: "/assets/projects/brain.png",
     tags: [
       {
         id: 1,
@@ -49,7 +49,7 @@ export const myProjects = [
     ],
     href: "https://github.com/KrishnaKV2004/Plant-Disease-Detection.git",
     logo: "",
-    image: "/assets/projects/auth-system.jpg",
+    image: "/assets/projects/plant.png",
     tags: [
       {
         id: 1,
@@ -86,7 +86,7 @@ export const myProjects = [
     ],
     href: "https://github.com/KrishnaKV2004/Human-Computer-Interaction.git",
     logo: "",
-    image: "/assets/projects/blazor-app.jpg",
+    image: "/assets/projects/hci.png",
     tags: [
       {
         id: 1,
@@ -123,7 +123,7 @@ export const myProjects = [
     ],
     href: "https://github.com/KrishnaKV2004/Synaptron.git",
     logo: "",
-    image: "/assets/projects/game-engine.jpg",
+    image: "/assets/projects/synaptron.png",
     tags: [
       {
         id: 1,
@@ -150,7 +150,7 @@ export const myProjects = [
     ],
     href: "https://github.com/KrishnaKV2004/Air-Canvas.git",
     logo: "",
-    image: "/assets/projects/wordpress-theme.jpg",
+    image: "/assets/projects/air.png",
     tags: [
       {
         id: 1,
